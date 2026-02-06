@@ -1,0 +1,5 @@
+Blinkit Dataset
+Jupyter Notebook or Any IDE to use Python
+Pandas
+Matplotlib
+Seaborn
